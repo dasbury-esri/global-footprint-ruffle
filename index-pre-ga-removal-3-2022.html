@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8,IE=9" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Global Footprint - A story map</title>
+
+<style type="text/css">
+
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input,hr {margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th {font-size:1em; font-weight:normal; font-style:normal;}
+ul,ol {list-style:none;}
+fieldset,img,hr {border:none;}
+caption,th {text-align:left;}
+table {border-collapse:collapse; border-spacing:0;}
+td {vertical-align:top;}
+
+body{
+	
+}
+
+#main{
+	position:absolute;
+	background-color:#dadada;
+	height:100%;
+	width:100%;
+	overflow:none;
+}
+
+#banner{
+	position:relative;
+	background-color:#3e3e3e;
+	width:100%;
+	height:60px;
+}
+
+h1{
+	color:#fff;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:32px;
+	font-weight:normal;
+	line-height:1.8;
+	margin-left:10px;
+}
+
+#application{
+	position:absolute;
+	height:94%;
+	border:none;
+	width:100%;
+	z-index:10;
+	overflow:hidden;
+}
+
+div.social{
+	display:inline;
+	font-size:12px;
+	color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	float:right;
+	padding-right:12px;
+	margin-top:-30px;
+}
+
+.msLink{
+	font-size:12px;
+}
+	
+a.msLink:link{
+	color:#fff;
+	text-decoration:none;
+}
+	
+a.msLink:hover{
+	color:#fff;
+	text-decoration:underline;
+}
+	
+a.msLink:visited{
+	color:#fff;
+}
+
+#modalBackground{
+	background-color:#000;
+	width:100%;
+	height:100%;
+	position:absolute;
+	display:none;
+	z-index:100;
+}
+
+</style>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+<!--Social Media Links-->
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'77225c91-2742-42f7-b1b4-bddda99a9bde'});</script>
+<!--END Social Media Links-->
+
+<!--Google Analytics Start-->
+	<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-26529417-1']);
+  	_gaq.push(['_trackPageview']);
+
+  	(function() {
+   	 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  	})();
+
+	</script>
+<!--Google Analytics End-->
+
+</head>
+
+<body>
+	<div id="main">
+    	<div id="banner">
+        	<h1 id="title">Global Footprint</h1>
+            <div class="social"><p><a class="msLink" href="https://storymaps.esri.com" target="_blank">A story map</a><span  class='st_facebook' ></span><span  class='st_twitter' ></span></div>
+        </div><!--banner-->
+        <div id="test">
+        <iframe id="application" src="https://storymaps.esri.com/archives/globalfootprint/app.html?intro=true"></iframe>
+        </div>
+    </div><!--main-->
+    
+    <div id="modalBackground"></div>
+</body>
+
+<script type="text/javascript">
+$(document).ready(function() {
+   appHeight = $("#main").height() - $("#banner").height();
+   $("#application").css('height',appHeight);
+});
+</script>
+
+</html>
