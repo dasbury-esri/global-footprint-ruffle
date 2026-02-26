@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <!-- saved from url=(0014)about:internet -->
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">	
     <!-- 
@@ -14,6 +14,13 @@
         <title></title>         
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+        <script>
+            window.RufflePlayer = window.RufflePlayer || {};
+            window.RufflePlayer.config = {
+                preferredRenderer: "canvas",
+                autoplay: "on"
+            };
+        </script>
 		<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 		<!-- Include CSS to eliminate any default margins/padding and set the height of the html element and 
 		     the body element to 100%, because Firefox, or any Gecko based browser, interprets percentage as 
@@ -36,9 +43,9 @@
         <script type="text/javascript" src="swfobject.js"></script>
         <script type="text/javascript">
             <!-- For version detection, set to min. required Flash Player version, or 0 (or 0.0.0), for no version detection. --> 
-            var swfVersionStr = "10.0.0";
+            var swfVersionStr = "0.0.0";
             <!-- To use express install, set to playerProductInstall.swf, otherwise the empty string. -->
-            var xiSwfUrlStr = "playerProductInstall.swf";
+            var xiSwfUrlStr = "";
             var flashvars = {};
             var params = {};
             params.quality = "high";
@@ -49,11 +56,21 @@
             attributes.id = "Main";
             attributes.name = "Main";
             attributes.align = "middle";
+            var embedCallback = function(result) {
+                var hasRef = !!(result && result.ref);
+                if (window.console && typeof window.console.log === "function") {
+                    window.console.log("[global-footprint] embedSWF", {
+                        success: !!(result && result.success),
+                        hasRef: hasRef,
+                        id: result && result.id ? result.id : null
+                    });
+                }
+            };
             swfobject.embedSWF(
                 "Main.swf", "flashContent", 
                 "100%", "100%", 
                 swfVersionStr, xiSwfUrlStr, 
-                flashvars, params, attributes);
+                flashvars, params, attributes, embedCallback);
 			<!-- JavaScript enabled so display the flashContent div in case it is not replaced with a swf object. -->
 			swfobject.createCSS("#flashContent", "display:block;text-align:left;");
         </script>
