@@ -16,10 +16,17 @@
 		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
         <script>
             window.RufflePlayer = window.RufflePlayer || {};
-            window.RufflePlayer.config = {
-                preferredRenderer: "canvas",
-                autoplay: "on"
-            };
+            (function() {
+                var params = new URLSearchParams(window.location.search);
+                var renderer = params.get("renderer") || "canvas";
+                window.RufflePlayer.config = {
+                    preferredRenderer: renderer,
+                    autoplay: "on"
+                };
+                if (window.console && typeof window.console.log === "function") {
+                    window.console.log("[global-footprint] ruffle renderer", renderer);
+                }
+            })();
         </script>
 		<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 		<!-- Include CSS to eliminate any default margins/padding and set the height of the html element and 
