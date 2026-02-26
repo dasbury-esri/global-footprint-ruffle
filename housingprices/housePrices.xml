@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-11-04T11:21:15">
+<housePrices>
+<ID>1</ID>
+<data>Modesto, CA</data>
+<long>-120.997793</long>
+<lat>37.639344</lat>
+<percentDecline>-65</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>100</rank>
+<rank1>-60% to -65%</rank1>
+<category>9</category>
+<percentUnemployment2011>17.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>2</ID>
+<data>Las Vegas-Paradise, NV</data>
+<long>-115.232834</long>
+<lat>36.222664</lat>
+<percentDecline>-64.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>99</rank>
+<rank1>-60% to -65%</rank1>
+<category>9</category>
+<percentUnemployment2011>13.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>3</ID>
+<data>Stockton, CA</data>
+<long>-121.286611</long>
+<lat>37.949495</lat>
+<percentDecline>-63.9</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>98</rank>
+<rank1>-60% to -65%</rank1>
+<category>9</category>
+<percentUnemployment2011>16.6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>4</ID>
+<data>Cape Coral-Fort Myers, FL</data>
+<long>-81.905924</long>
+<lat>26.639748</lat>
+<percentDecline>-59.5</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>97</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>11.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>5</ID>
+<data>Bakersfield, CA</data>
+<long>-119.058155</long>
+<lat>35.350089</lat>
+<percentDecline>-56.8</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>96</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>15.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>6</ID>
+<data>Phoenix-Mesa-Glendale, AZ</data>
+<long>-112.065792</long>
+<lat>33.452301</lat>
+<percentDecline>-56.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>95</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>7</ID>
+<data>North Port-Bradenton-Sarasota, FL</data>
+<long>-82.532816</long>
+<lat>27.356937</lat>
+<percentDecline>-55.4</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>94</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>10.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>8</ID>
+<data>Palm Bay-Melbourne-Titusville, FL</data>
+<long>-80.651135</long>
+<lat>28.069786</lat>
+<percentDecline>-55.3</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>93</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>11.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>9</ID>
+<data>Riverside-San Bernardino-Ontario, CA</data>
+<long>-117.348534</long>
+<lat>34.03584</lat>
+<percentDecline>-54.6</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>92</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>14.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>10</ID>
+<data>Sacramento--Arden-Arcade--Roseville, CA</data>
+<long>-121.500107</long>
+<lat>38.576303</lat>
+<percentDecline>-53.4</percentDecline>
+<peakQuarter>Fourth Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>91</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>12.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>11</ID>
+<data>Fresno, CA</data>
+<long>-119.79364</long>
+<lat>36.737005</lat>
+<percentDecline>-53.2</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>90</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>16.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>12</ID>
+<data>Miami-Fort Lauderdale-Pompano Beach, FL</data>
+<long>-80.170473</long>
+<lat>25.975199</lat>
+<percentDecline>-52.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>89</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>11.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>13</ID>
+<data>Orlando-Kissimmee, FL</data>
+<long>-81.369767</long>
+<lat>28.551624</lat>
+<percentDecline>-52.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>88</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>10.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>14</ID>
+<data>Lakeland-Winter Haven, FL</data>
+<long>-81.844387</long>
+<lat>28.054331</lat>
+<percentDecline>-50</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>87</rank>
+<rank1>-50% to -59.9%</rank1>
+<category>8</category>
+<percentUnemployment2011>11.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>15</ID>
+<data>Tampa-St. Petersburg-Clearwater, FL</data>
+<long>-82.572598</long>
+<lat>27.841675</lat>
+<percentDecline>-48.1</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>86</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>11.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>16</ID>
+<data>Detroit-Warren-Livonia, MI</data>
+<long>-83.045883</long>
+<lat>42.330213</lat>
+<percentDecline>-46.8</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>85</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>12.5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>17</ID>
+<data>Boise City-Nampa, ID</data>
+<long>-116.201927</long>
+<lat>43.615306</lat>
+<percentDecline>-46.6</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>84</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>9.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>18</ID>
+<data>Oxnard-Thousand Oaks-Ventura, CA</data>
+<long>-119.210253</long>
+<lat>34.232087</lat>
+<percentDecline>-43.9</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>83</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>10.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>19</ID>
+<data>Tucson, AZ</data>
+<long>-110.946701</long>
+<lat>32.223225</lat>
+<percentDecline>-42.9</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>82</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>9.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>20</ID>
+<data>San Francisco-Oakland-Fremont, CA</data>
+<long>-122.357895</long>
+<lat>37.780665</lat>
+<percentDecline>-42.5</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>81</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>10.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>21</ID>
+<data>Jacksonville, FL</data>
+<long>-81.660834</long>
+<lat>30.327703</lat>
+<percentDecline>-41.6</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>80</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>10.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>22</ID>
+<data>Los Angeles-Long Beach-Santa Ana, CA</data>
+<long>-118.249794</long>
+<lat>34.044456</lat>
+<percentDecline>-40.8</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>79</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>11.6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>23</ID>
+<data>San Jose-Sunnyvale-Santa Clara, CA</data>
+<long>-121.943161</long>
+<lat>37.343323</lat>
+<percentDecline>-38.6</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>78</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>10</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>24</ID>
+<data>Minneapolis-St. Paul-Bloomington, MN-WI</data>
+<long>-93.163197</long>
+<lat>44.95727</lat>
+<percentDecline>-34</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>77</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>25</ID>
+<data>Scranton--Wilkes-Barre, PA</data>
+<long>-75.766199</long>
+<lat>41.332425</lat>
+<percentDecline>-32.7</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>76</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>10.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>26</ID>
+<data>Providence-New Bedford-Fall River, RI-MA</data>
+<long>-71.410631</long>
+<lat>41.825739</lat>
+<percentDecline>-32.6</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>75</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>10.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>27</ID>
+<data>Washington-Arlington-Alexandria, DC-VA-MD-WV</data>
+<long>-77.036964</long>
+<lat>38.89125</lat>
+<percentDecline>-32.6</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>74</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>6.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>28</ID>
+<data>Grand Rapids-Wyoming, MI</data>
+<long>-85.671125</long>
+<lat>42.966002</lat>
+<percentDecline>-32.2</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>73</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>29</ID>
+<data>Springfield, MA</data>
+<long>-72.603273</long>
+<lat>42.11314</lat>
+<percentDecline>-31.9</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>72</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>30</ID>
+<data>Provo-Orem, UT</data>
+<long>-111.66179</long>
+<lat>40.237777</lat>
+<percentDecline>-31.7</percentDecline>
+<peakQuarter>Third Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>71</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>7.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>31</ID>
+<data>Chicago-Naperville-Joliet, IL-IN-WI</data>
+<long>-87.626598</long>
+<lat>41.872644</lat>
+<percentDecline>-31.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>70</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>10.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>32</ID>
+<data>Portland-Vancouver-Beaverton, OR-WA</data>
+<long>-122.672578</long>
+<lat>45.523207</lat>
+<percentDecline>-31</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>69</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>9.5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>33</ID>
+<data>Poughkeepsie-Newburgh-Middletown, NY</data>
+<long>-73.93158</long>
+<lat>41.704095</lat>
+<percentDecline>-30.8</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>68</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>7.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>34</ID>
+<data>Worcester, MA</data>
+<long>-71.797848</long>
+<lat>42.270289</lat>
+<percentDecline>-30.5</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>67</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>8.5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>35</ID>
+<data>Atlanta-Sandy Springs-Marietta, GA</data>
+<long>-84.39</long>
+<lat>33.756557</lat>
+<percentDecline>-30.1</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>66</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>10.5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>36</ID>
+<data>Baltimore-Towson, MD</data>
+<long>-76.612724</long>
+<lat>39.290094</lat>
+<percentDecline>-29.8</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>65</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>7.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>37</ID>
+<data>Bridgeport-Stamford-Norwalk, CT</data>
+<long>-73.305146</long>
+<lat>41.138269</lat>
+<percentDecline>-29</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>64</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>38</ID>
+<data>Toledo, OH</data>
+<long>-83.538822</long>
+<lat>41.657001</lat>
+<percentDecline>-28.9</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>63</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>10.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>39</ID>
+<data>Cleveland-Elyria-Mentor, OH</data>
+<long>-81.696491</long>
+<lat>41.500318</lat>
+<percentDecline>-28.6</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>62</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>40</ID>
+<data>San Antonio, TX</data>
+<long>-98.491947</long>
+<lat>29.422005</lat>
+<percentDecline>-27.8</percentDecline>
+<peakQuarter>Third Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>61</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>7.6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>41</ID>
+<data>Charleston-North Charleston-Summerville, SC</data>
+<long>-79.93816</long>
+<lat>32.781007</lat>
+<percentDecline>-27.5</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>60</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>42</ID>
+<data>New Haven-Milford, CT</data>
+<long>-72.952836</long>
+<lat>41.282951</lat>
+<percentDecline>-27.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>59</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>10.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>43</ID>
+<data>Columbus, OH</data>
+<long>-83.002708</long>
+<lat>39.961174</lat>
+<percentDecline>-26.7</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>58</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>44</ID>
+<data>New York-Northern New Jersey-Long Island, NY-NJ-PA</data>
+<long>-73.992418</long>
+<lat>40.734495</lat>
+<percentDecline>-26.2</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>57</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>45</ID>
+<data>Boston-Cambridge-Quincy, MA-NH</data>
+<long>-71.059039</long>
+<lat>42.36285</lat>
+<percentDecline>-26</percentDecline>
+<peakQuarter>Second Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>56</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>7.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>46</ID>
+<data>Virginia Beach-Norfolk-Newport News, VA-NC</data>
+<long>-76.24707</long>
+<lat>36.93916</lat>
+<percentDecline>-25.3</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>55</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>47</ID>
+<data>Akron, OH</data>
+<long>-81.518036</long>
+<lat>41.030092</lat>
+<percentDecline>-25.2</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>54</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>48</ID>
+<data>Richmond, VA</data>
+<long>-77.433658</long>
+<lat>37.536888</lat>
+<percentDecline>-25.2</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>53</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>49</ID>
+<data>Allentown-Bethlehem-Easton, PA-NJ</data>
+<long>-75.43091</long>
+<lat>40.60566</lat>
+<percentDecline>-25.1</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>52</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>50</ID>
+<data>Albuquerque, NM</data>
+<long>-106.640968</long>
+<lat>35.097211</lat>
+<percentDecline>-23.6</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>51</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>51</ID>
+<data>Ogden-Clearfield, UT</data>
+<long>-111.972399</long>
+<lat>41.209153</lat>
+<percentDecline>-23.6</percentDecline>
+<peakQuarter>Fourth Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>50</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>7.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>52</ID>
+<data>Dayton, OH</data>
+<long>-84.193556</long>
+<lat>39.758203</lat>
+<percentDecline>-23.3</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>49</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>10</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>53</ID>
+<data>Memphis, TN-MS-AR</data>
+<long>-90.040062</long>
+<lat>35.145265</lat>
+<percentDecline>-22.7</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>48</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>10.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>54</ID>
+<data>Milwaukee-Waukesha-West Allis, WI</data>
+<long>-87.924606</long>
+<lat>43.039664</lat>
+<percentDecline>-22.4</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>47</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>55</ID>
+<data>Philadelphia-Camden-Wilmington, PA-NJ-DE-MD</data>
+<long>-75.149731</long>
+<lat>39.946578</lat>
+<percentDecline>-22.3</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>46</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>56</ID>
+<data>Youngstown-Warren-Boardman, OH-PA</data>
+<long>-80.644184</long>
+<lat>41.100307</lat>
+<percentDecline>-22.3</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>45</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>57</ID>
+<data>Portland-South Portland-Biddeford, ME</data>
+<long>-70.259702</long>
+<lat>43.658147</lat>
+<percentDecline>-22</percentDecline>
+<peakQuarter>First Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>44</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>6.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>58</ID>
+<data>Colorado Springs, CO</data>
+<long>-104.821854</long>
+<lat>38.832855</lat>
+<percentDecline>-21.4</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>43</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>59</ID>
+<data>Hartford-West Hartford-East Hartford, CT</data>
+<long>-72.672066</long>
+<lat>41.766837</lat>
+<percentDecline>-21.4</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>42</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>60</ID>
+<data>Kansas City, MO-KS</data>
+<long>-94.583502</long>
+<lat>39.087311</lat>
+<percentDecline>-20.7</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>41</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>61</ID>
+<data>Cincinnati-Middletown, OH-KY-IN</data>
+<long>-84.512424</long>
+<lat>39.099127</lat>
+<percentDecline>-20.6</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>40</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>62</ID>
+<data>Charlotte-Gastonia-Concord, NC-SC</data>
+<long>-80.851931</long>
+<lat>35.247844</lat>
+<percentDecline>-20.5</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>39</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>11.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>63</ID>
+<data>St. Louis, MO-IL</data>
+<long>-90.195595</long>
+<lat>38.625404</lat>
+<percentDecline>-20.5</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>38</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>64</ID>
+<data>Salt Lake City, UT</data>
+<long>-111.903206</long>
+<lat>40.757871</lat>
+<percentDecline>-20.4</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>37</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>65</ID>
+<data>Denver-Aurora, CO</data>
+<long>-104.993946</long>
+<lat>39.753097</lat>
+<percentDecline>-20.2</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>36</rank>
+<rank1>-20% to -29.9%</rank1>
+<category>4</category>
+<percentUnemployment2011>8.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>66</ID>
+<data>New Orleans-Metairie-Kenner, LA</data>
+<long>-90.064042</long>
+<lat>29.960568</lat>
+<percentDecline>-19.5</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>35</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>67</ID>
+<data>Birmingham-Hoover, AL</data>
+<long>-86.808376</long>
+<lat>33.515769</lat>
+<percentDecline>-19.3</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>34</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>9.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>68</ID>
+<data>Augusta-Richmond County, GA-SC</data>
+<long>-81.984598</long>
+<lat>33.464666</lat>
+<percentDecline>-18.6</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>33</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>9.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>69</ID>
+<data>Indianapolis-Carmel, IN</data>
+<long>-86.157154</long>
+<lat>39.767475</lat>
+<percentDecline>-18</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>32</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>70</ID>
+<data>Honolulu, HI</data>
+<long>-157.836947</long>
+<lat>21.28897</lat>
+<percentDecline>-17.1</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>31</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>5.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>71</ID>
+<data>Madison, WI</data>
+<long>-89.383038</long>
+<lat>43.073595</lat>
+<percentDecline>-16.7</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>30</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>6.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>72</ID>
+<data>Omaha-Council Bluffs, NE-IA</data>
+<long>-95.935578</long>
+<lat>41.261006</lat>
+<percentDecline>-16.3</percentDecline>
+<peakQuarter>First Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>29</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>73</ID>
+<data>Columbia, SC</data>
+<long>-81.041306</long>
+<lat>34.002694</lat>
+<percentDecline>-16.2</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>28</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>10</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>74</ID>
+<data>Des Moines-West Des Moines, IA</data>
+<long>-93.621954</long>
+<lat>41.584147</lat>
+<percentDecline>-16.2</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>27</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>75</ID>
+<data>Greensboro-High Point, NC</data>
+<long>-79.801666</long>
+<lat>36.065695</lat>
+<percentDecline>-16</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>26</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>10.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>76</ID>
+<data>Chattanooga, TN-GA</data>
+<long>-85.306365</long>
+<lat>35.041562</lat>
+<percentDecline>-15.9</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>25</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>9.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>77</ID>
+<data>Nashville-Davidson--Murfreesboro--Franklin, TN</data>
+<long>-86.778284</long>
+<lat>36.16398</lat>
+<percentDecline>-15.6</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>24</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>8.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>78</ID>
+<data>Raleigh-Cary, NC</data>
+<long>-78.636257</long>
+<lat>35.775781</lat>
+<percentDecline>-15.3</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>23</rank>
+<rank1>-15% to -19.9%</rank1>
+<category>3</category>
+<percentUnemployment2011>8.6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>79</ID>
+<data>Knoxville, TN</data>
+<long>-83.919258</long>
+<lat>35.965015</lat>
+<percentDecline>-14.8</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>22</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>8.3</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>80</ID>
+<data>McAllen-Edinburg-Mission, TX</data>
+<long>-98.228577</long>
+<lat>26.204201</lat>
+<percentDecline>-14.7</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>21</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>13.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>81</ID>
+<data>Seattle-Tacoma-Bellevue, WA</data>
+<long>-122.332565</long>
+<lat>47.430903</lat>
+<percentDecline>-14.6</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>20</rank>
+<rank1>-30% to -39.9%</rank1>
+<category>6</category>
+<percentUnemployment2011>9.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>82</ID>
+<data>Jackson, MS</data>
+<long>-90.192226</long>
+<lat>32.300005</lat>
+<percentDecline>-14.5</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>19</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>8.8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>83</ID>
+<data>Louisville-Jefferson County, KY-IN</data>
+<long>-85.752542</long>
+<lat>38.254672</lat>
+<percentDecline>-14</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>18</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>9.5</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>84</ID>
+<data>El Paso, TX</data>
+<long>-106.484581</long>
+<lat>31.773933</lat>
+<percentDecline>-13.6</percentDecline>
+<peakQuarter>Third Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>17</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>10.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>85</ID>
+<data>Dallas-Fort Worth-Arlington, TX</data>
+<long>-97.032078</long>
+<lat>32.780894</lat>
+<percentDecline>-13.5</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>16</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>8.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>86</ID>
+<data>Albany-Schenectady-Troy, NY</data>
+<long>-73.813959</long>
+<lat>42.754319</lat>
+<percentDecline>-13.1</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>15</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>7.2</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>87</ID>
+<data>Greenville-Mauldin-Easley, SC</data>
+<long>-82.394865</long>
+<lat>34.852753</lat>
+<percentDecline>-13</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>14</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>9.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>88</ID>
+<data>Houston-Sugar Land-Baytown, TX</data>
+<long>-95.362886</long>
+<lat>29.757381</lat>
+<percentDecline>-12.8</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>13</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>89</ID>
+<data>Harrisburg-Carlisle, PA</data>
+<long>-76.89485</long>
+<lat>40.277502</lat>
+<percentDecline>-12.4</percentDecline>
+<peakQuarter>First Quarter 2007</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>12</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>7.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>90</ID>
+<data>Little Rock-North Little Rock-Conway, AR</data>
+<long>-92.277416</long>
+<lat>34.742406</lat>
+<percentDecline>-12.1</percentDecline>
+<peakQuarter>Fourth Quarter 2006</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>11</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>7.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>91</ID>
+<data>Austin-Round Rock, TX</data>
+<long>-97.738052</long>
+<lat>30.269912</lat>
+<percentDecline>-12</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>10</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>7.6</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>92</ID>
+<data>San Diego-Carlsbad-San Marcos, CA</data>
+<long>-117.158405</long>
+<lat>32.713115</lat>
+<percentDecline>-11.2</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>9</rank>
+<rank1>-40% to -49.9%</rank1>
+<category>7</category>
+<percentUnemployment2011>8.1</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>93</ID>
+<data>Wichita, KS</data>
+<long>-97.323906</long>
+<lat>37.685943</lat>
+<percentDecline>-11.1</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>8</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>7.9</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>94</ID>
+<data>Tulsa, OK</data>
+<long>-95.987442</long>
+<lat>36.141448</lat>
+<percentDecline>-10.9</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>7</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>6.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>95</ID>
+<data>Oklahoma City, OK</data>
+<long>-97.491174</long>
+<lat>35.482449</lat>
+<percentDecline>-10.6</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>6</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>5.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>96</ID>
+<data>Baton Rouge, LA</data>
+<long>-91.17218</long>
+<lat>30.443335</lat>
+<percentDecline>-10.3</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>5</rank>
+<rank1>-10% to -14.9%</rank1>
+<category>2</category>
+<percentUnemployment2011>8.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>97</ID>
+<data>Rochester, NY</data>
+<long>-77.607284</long>
+<lat>43.156272</lat>
+<percentDecline>-10.2</percentDecline>
+<peakQuarter>Third Quarter 2005</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>4</rank>
+<rank1>-7.9% to -9.9%</rank1>
+<category>1</category>
+<percentUnemployment2011>7.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>98</ID>
+<data>Syracuse, NY</data>
+<long>-76.150999</long>
+<lat>43.049965</lat>
+<percentDecline>-9.9</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>3</rank>
+<rank1>-7.9% to -9.9%</rank1>
+<category>1</category>
+<percentUnemployment2011>8</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>99</ID>
+<data>Pittsburgh, PA</data>
+<long>-80.000627</long>
+<lat>40.440636</lat>
+<percentDecline>-8.6</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>2</rank>
+<rank1>-7.9% to -9.9%</rank1>
+<category>1</category>
+<percentUnemployment2011>7.4</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+<housePrices>
+<ID>100</ID>
+<data>Buffalo-Niagara Falls, NY</data>
+<long>-78.875944</long>
+<lat>42.885245</lat>
+<percentDecline>-7.9</percentDecline>
+<peakQuarter>First Quarter 2009</peakQuarter>
+<averageDecline>-26.7</averageDecline>
+<rank>1</rank>
+<rank1>-7.9% to -9.9%</rank1>
+<category>1</category>
+<percentUnemployment2011>7.7</percentUnemployment2011>
+<averageUnemploymentRate>9.3</averageUnemploymentRate>
+</housePrices>
+</dataroot>
