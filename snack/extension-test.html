@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <title>Snack - Extension Test</title>
+  <style>
+    html, body { height: 100%; }
+    body { margin: 0; padding: 0; background: #ffffff; }
+    #ruffle-container { width: 100%; height: 100%; }
+    ruffle-player { display: block; width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="ruffle-container">
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="Main">
+    <param name="movie" value="Main.swf" />
+    <param name="quality" value="high" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="allowScriptAccess" value="sameDomain" />
+    <param name="allowFullScreen" value="true" />
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="Main.swf" width="100%" height="100%">
+      <param name="quality" value="high" />
+      <param name="bgcolor" value="#ffffff" />
+      <param name="allowScriptAccess" value="sameDomain" />
+      <param name="allowFullScreen" value="true" />
+    <!--<![endif]-->
+    <!--[if gte IE 6]>-->
+      <p>
+        Either scripts and active content are not permitted to run or Adobe Flash Player version
+        10.0.0 or greater is not installed.
+      </p>
+    <!--<![endif]-->
+      <a href="http://www.adobe.com/go/getflashplayer">
+        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash Player" />
+      </a>
+    <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+  </div>
+  <script>
+    (function() {
+      var fallbackDelayMs = 1000;
+
+      function hasExtensionPlayer() {
+        return document.querySelector("ruffle-player") !== null;
+      }
+
+      function loadWebRuffle() {
+        var script = document.createElement("script");
+        script.src = "https://unpkg.com/@ruffle-rs/ruffle";
+        script.onload = function() {
+          if (!window.RufflePlayer || !window.RufflePlayer.newest) {
+            return;
+          }
+          var ruffle = window.RufflePlayer.newest();
+          var player = ruffle.createPlayer();
+          var container = document.getElementById("ruffle-container");
+          if (!container) {
+            return;
+          }
+          container.innerHTML = "";
+          container.appendChild(player);
+          player.ruffle().load("Main.swf");
+        };
+        document.head.appendChild(script);
+      }
+
+      window.addEventListener("load", function() {
+        setTimeout(function() {
+          if (!hasExtensionPlayer()) {
+            loadWebRuffle();
+          }
+        }, fallbackDelayMs);
+      });
+    })();
+  </script>
+</body>
+</html>

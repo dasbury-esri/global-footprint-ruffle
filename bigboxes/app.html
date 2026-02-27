@@ -14,20 +14,6 @@
         <title></title>         
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-        <script>
-            window.RufflePlayer = window.RufflePlayer || {};
-            (function() {
-                var params = new URLSearchParams(window.location.search);
-                var renderer = params.get("renderer") || "canvas";
-                window.RufflePlayer.config = {
-                    preferredRenderer: renderer,
-                    autoplay: "on"
-                };
-                if (window.console && typeof window.console.log === "function") {
-                    window.console.log("[housingprices] ruffle renderer", renderer);
-                }
-            })();
-        </script>
 		<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 		<!-- Include CSS to eliminate any default margins/padding and set the height of the html element and 
 		     the body element to 100%, because Firefox, or any Gecko based browser, interprets percentage as 
@@ -50,9 +36,9 @@
         <script type="text/javascript" src="swfobject.js"></script>
         <script type="text/javascript">
             <!-- For version detection, set to min. required Flash Player version, or 0 (or 0.0.0), for no version detection. --> 
-            var swfVersionStr = "0.0.0";
+            var swfVersionStr = "10.0.0";
             <!-- To use express install, set to playerProductInstall.swf, otherwise the empty string. -->
-            var xiSwfUrlStr = "";
+            var xiSwfUrlStr = "playerProductInstall.swf";
             var flashvars = {};
             var params = {};
             params.quality = "high";
@@ -60,24 +46,14 @@
             params.allowscriptaccess = "sameDomain";
             params.allowfullscreen = "true";
             var attributes = {};
-            attributes.id = "main";
-            attributes.name = "main";
+            attributes.id = "Main";
+            attributes.name = "Main";
             attributes.align = "middle";
-            var embedCallback = function(result) {
-                var hasRef = !!(result && result.ref);
-                if (window.console && typeof window.console.log === "function") {
-                    window.console.log("[housingprices] embedSWF", {
-                        success: !!(result && result.success),
-                        hasRef: hasRef,
-                        id: result && result.id ? result.id : null
-                    });
-                }
-            };
             swfobject.embedSWF(
-                "main.swf", "flashContent", 
+                "Main.swf", "flashContent", 
                 "100%", "100%", 
                 swfVersionStr, xiSwfUrlStr, 
-                flashvars, params, attributes, embedCallback);
+                flashvars, params, attributes);
 			<!-- JavaScript enabled so display the flashContent div in case it is not replaced with a swf object. -->
 			swfobject.createCSS("#flashContent", "display:block;text-align:left;");
         </script>
@@ -100,14 +76,14 @@
         </div>
 	   	
        	<noscript>
-            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="main">
-                <param name="movie" value="main.swf" />
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="Main">
+                <param name="movie" value="Main.swf" />
                 <param name="quality" value="high" />
                 <param name="bgcolor" value="#ffffff" />
                 <param name="allowScriptAccess" value="sameDomain" />
                 <param name="allowFullScreen" value="true" />
                 <!--[if !IE]>-->
-                <object type="application/x-shockwave-flash" data="main.swf" width="100%" height="100%">
+                <object type="application/x-shockwave-flash" data="Main.swf" width="100%" height="100%">
                     <param name="quality" value="high" />
                     <param name="bgcolor" value="#ffffff" />
                     <param name="allowScriptAccess" value="sameDomain" />
